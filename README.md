@@ -81,11 +81,30 @@ Bizneslər üçün marketinqi və gündəlik işi avtomatlaşdırıram. Satış 
 
 ---
 
+### 🎬 AI animasiya videoları
+AI ilə hazırladığım karikatura, animasiya və reels videoları: **16 video**.
+
+<p align="center">
+  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/vot-kofe-karikatura.gif" width="150" alt="VOT — Kofe karikaturası"></a>
+  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/codementor-karikatura.gif" width="150" alt="Codementor.x — Riyaziyyat dərsi"></a>
+  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/talant-690-karikatura.gif" width="150" alt="Talant — 690 bal"></a>
+  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/vusale-target-karikatura.gif" width="150" alt="Meta targetoloq — karikatura"></a>
+  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/codementor-x-tek-oyrenme.gif" width="150" alt="Proqramlaşdırmanı tək öyrənirsən?"></a>
+  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/claude-zehin-xeritesi.gif" width="150" alt="Claude — Zehin xəritəsi"></a>
+  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/kolya-problem-hell.gif" width="150" alt="Kolya — Hər səhər eyni sual"></a>
+  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/qara-men.gif" width="150" alt="Mən qaranı"></a>
+</p>
+
+<p align="center"><a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://img.shields.io/badge/▶_Bütün_videoları_izlə-D97757?style=for-the-badge" alt="Bütün videoları izlə"></a></p>
+
+---
+
 ### 🚀 Layihələr
 
 **Açıq (open source)**
 | Layihə | Nə edir |
 |---|---|
+| [ai-animasiya](https://github.com/nsrullayevtamerlan29-debug/ai-animasiya) | AI animasiya portfoliosu: 16 video və [qalereya saytı](https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/) |
 | [claude-zehin-xeritesi](https://github.com/nsrullayevtamerlan29-debug/claude-zehin-xeritesi) | Claude-dan uzun mətn əvəzinə kliklənən zehin xəritəsi: Azərbaycanca skill, bələdçi və hazır promptlar |
 | [claude-skill-temizliyi](https://github.com/nsrullayevtamerlan29-debug/claude-skill-temizliyi) | Claude Code-da lazımsız skill-ləri təmizləmək üçün bələdçi |
 
