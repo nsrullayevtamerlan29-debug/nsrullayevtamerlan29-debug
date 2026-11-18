@@ -86,8 +86,8 @@ AI ilə hazırladığım karikatura, animasiya və reels videoları: **16 video*
 
 <p align="center">
   <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/vot-kofe-karikatura.gif" width="150" alt="VOT — Kofe karikaturası"></a>
-  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/codementor-karikatura.gif" width="150" alt="Codementor.x — Riyaziyyat dərsi"></a>
-  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/talant-690-karikatura.gif" width="150" alt="Talant — 690 bal"></a>
+  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/codementor-karikatura.gif" width="150" alt="Codementor.x — Bakıda bir həyat hekayəsi"></a>
+  <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/talant-690-karikatura.gif" width="150" alt="Talant — Riyaziyyat dərsi (690 bal)"></a>
   <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/vusale-target-karikatura.gif" width="150" alt="Meta targetoloq — karikatura"></a>
   <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/codementor-x-tek-oyrenme.gif" width="150" alt="Proqramlaşdırmanı tək öyrənirsən?"></a>
   <a href="https://nsrullayevtamerlan29-debug.github.io/ai-animasiya/"><img src="https://raw.githubusercontent.com/nsrullayevtamerlan29-debug/ai-animasiya/main/previews/claude-zehin-xeritesi.gif" width="150" alt="Claude — Zehin xəritəsi"></a>
