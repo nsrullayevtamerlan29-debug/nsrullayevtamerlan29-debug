@@ -49,7 +49,7 @@ Bizneslər üçün marketinqi və gündəlik işi avtomatlaşdırıram. Satış 
 **Müştəri və şirkət layihələri** 🔒 *(kod özəldir, istəyə görə demo göstərilir)*
 | Layihə | Nə edir | Texnologiya |
 |---|---|---|
-| **Lumera** | Gözəllik və "glow up" üçün AI sosial platforma: üz analizi, motivasiya, inkişaf | React, TypeScript, Tailwind, Supabase, Figma |
+| **Lumera** ✨ | Öz startapım: AI əsaslı istehlakçı platforması. Hazırda gizli rejimdə (stealth) hazırlanır, tezliklə təqdim olunacaq | React, TypeScript, Supabase |
 | **VOT Agency — veb sayt** | Agentliyin rəsmi saytı | React, TypeScript, Vite, Vercel |
 | **AI satış kontenti sistemi** | Azərbaycan auditoriyası üçün kamera qarşısı satış ssenariləri: araşdırma → təklif → ssenari → auditoriya testi | Claude Code, skill pipeline |
 | **AI video montaj sistemi** | Çəkilişdən hazır Reels-ə qədər: subtitr, musiqi, SFX, stil kitabxanası | Claude Code, Python, Node.js |
